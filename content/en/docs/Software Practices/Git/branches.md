@@ -1,6 +1,5 @@
 
 ---
-
 title: "Branching"
 linkTitle: "Branching"
 weight: 1
